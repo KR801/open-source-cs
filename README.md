@@ -71,7 +71,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 
 # Masters
 
-The classes listed belows are extras for more specialty fields.
+The classes listed belows are extras for specialty fields.
 
 ## C++
 
