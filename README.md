@@ -68,3 +68,16 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595) | Udacity | 1 week | 5 hours/week | self-paced | none
 [The Unix Workbench](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Funix) | JHU | 4 weeks | 4 hours/week | once a month | none
+
+# Masters
+
+The classes listed belows are extras for more specialty fields.
+
+## C++
+
+Courses | School | Duration | Effort | Frequency | Prerequisites
+:-- | :--: | :--: | :--: | :--: | :--:
+[Introduction to C++](https://www.edx.org/course/introduction-to-c-5) | Microsoft | 4 week | 3-5 hours/week | self-paced | none
+[Intermediate C++](https://www.edx.org/course/intermediate-c-3) | Microsoft | 4 weeks | 5-7 hours/week | self-paced | Introduction to C++
+[Advanced C++](https://www.edx.org/course/advanced-c-3) | Microsoft | 4 weeks | 2-4 hours/week | self-paced | Intermediate C++
+
